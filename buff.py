@@ -24,6 +24,7 @@ print(
 # Update ID WARP here
 referrer = '15cdbfd4-98da-4565-9f7b-b63a77aec04c'
 
+
 def progressBar():
 	animation = [
 	    "[□□□□□□□□□□]", "[■□□□□□□□□□]", "[■■□□□□□□□□]", "[■■■□□□□□□□]",
@@ -45,6 +46,7 @@ def progressBar():
 		if percent == 100:
 			sys.stdout.write("\r[+] Completed orders ... [■■■■■■■■■■] 100%")
 			break
+
 
 def genString(stringLength):
 	try:
