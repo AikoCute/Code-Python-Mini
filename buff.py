@@ -46,7 +46,6 @@ def progressBar():
 			sys.stdout.write("\r[+] Completed orders ... [■■■■■■■■■■] 100%")
 			break
 
-
 def genString(stringLength):
 	try:
 		letters = string.ascii_letters + string.digits
