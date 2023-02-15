@@ -125,4 +125,3 @@ while True:
 			sys.stdout.write(f"\r[*] Try again {i}s...")
 			sys.stdout.flush()
 			time.sleep(1)
-
