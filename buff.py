@@ -7,6 +7,7 @@ import time
 import os
 import sys
 
+
 script_version = '1.0'
 window_title = f"WARP+ by Aiko (version {script_version})"
 os.system('title ' + window_title if os.name == 'nt' else 'PS1="\[\e]0;' +
