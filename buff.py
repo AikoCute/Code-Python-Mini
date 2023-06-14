@@ -22,7 +22,7 @@ print(
     "[+] ID WARP Take at the app 1.1.1.1: Settings > Advanced > Diagnostics > ID")
 
 # Update ID WARP here
-referrer = '1cb50e4b-2394-43e2-a431-f0f2b9a4dc08'
+referrer = '209e462d-2944-4457-8422-120e0f64deb7'
 
 def progressBar():
 	animation = [
